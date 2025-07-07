@@ -2,6 +2,8 @@
 
 A dashboard prototype that allows supervisors to manage road cleaning operations, assign tasks to cleaners, track progress in real-time, and generate basic reports.
 
+Here is a link to a video walkthrough of the website: https://drive.google.com/file/d/1FrcsTtBfoi0wpXbDKQ-3nAZjafhhAo2E/view?usp=sharing
+
 ## 📐 System Architecture
 
 ### 1. Frontend (HTML, CSS, JS)
