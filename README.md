@@ -1,4 +1,4 @@
-# Smart Road Cleaning Management System
+# Edutec Global Interview Task - Smart Road Cleaning Management System
 
 A dashboard prototype that allows supervisors to manage road cleaning operations, assign tasks to cleaners, track progress in real-time, and generate basic reports.
 
